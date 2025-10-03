@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { motion } from 'framer-motion';
 
 const prestasiData = [
-  { year: 2025, event: 'Kejurda Merpati Putih Piala Kapolda 2025', achievement: 'Medali Emas Kelas E Putri/Dewasa (Nisfatul Mauizzah)', medal: 'gold' },
+  { year: 2025, event: 'Kejurda Merpati Putih Piala Kapolda 2025', achievement: 'Medali Emas Kelas E Putri/Dewasa (Raihana Salsabila)', medal: 'gold' },
   { year: 2025, event: 'Kejurda Merpati Putih Piala Kapolda 2025', achievement: 'Medali Emas Kelas A Putri/Dewasa (Nisfatul Mauizzah)', medal: 'gold' },
   { year: 2025, event: 'POMDA Aceh XIXI Universitas Teuku Umar 2025', achievement: 'Medali Perunggu Kelas A Putri (Nisfatul Mauizzah)', medal: 'bronze' },
   { year: 2024, event: 'Berhasil Ujian Kenaikan Tingkat', achievement: 'Balik 1 Ke Balik 2 (Intan Wirnanda)', medal: 'gold' },

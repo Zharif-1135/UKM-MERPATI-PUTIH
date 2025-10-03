@@ -13,9 +13,9 @@ export const galleryData = [
 // Data untuk Halaman Sejarah -> /sejarah
 export const historyData = [
   { year: '1963', title: 'Kelahiran Merpati Putih', description: 'Didirikan oleh Purwoto Hadi Purnomo (Mas Pung) dan Budi Santoso Hadi Purnomo (Mas Budi) sebagai warisan ilmu bela diri keluarga.', image: '/images/history/mp-national.jpg' },
-  { year: '2020', title: 'Awal Mula di UNIMAL', description: 'Dirintis oleh beberapa mahasiswa yang memiliki minat pada pencak silat, dan mulai diperkenalkan di lingkungan kampus.', image: '/images/history/unimal-early.jpg' },
-  { year: '2024', title: 'Peresmian UKM', description: 'Secara resmi diakui dan disahkan sebagai salah satu Unit Kegiatan Mahasiswa di Universitas Malikussaleh.', image: '/images/history/unimal-official.jpg' },
-  { year: '2021', title: 'Prestasi Pertama', description: 'Meraih medali perunggu dalam kejuaraan pencak silat antar-universitas tingkat regional.', image: '/images/history/first-achievement.jpg' },
+  { year: '2009', title: 'Awal Mula di UNIMAL', description: 'Dirintis oleh beberapa mahasiswa yang memiliki minat pada pencak silat, dan mulai diperkenalkan di lingkungan kampus.', image: '/images/history/unimal-early.jpg' },
+  { year: '2010', title: 'Peresmian UKM', description: 'Secara resmi diakui dan disahkan sebagai salah satu Unit Kegiatan Mahasiswa di Universitas Malikussaleh.', image: '/images/history/unimal-official.jpg' },
+  { year: '2019', title: 'Prestasi Pertama', description: 'Meraih medali perunggu dalam kejuaraan pencak silat antar-universitas tingkat regional.', image: '/images/history/first-achievement.jpg' },
   { year: 'Sekarang', title: 'Terus Berkembang', description: 'Aktif merekrut anggota baru, mengadakan latihan rutin, dan berpartisipasi dalam berbagai ajang bergengsi.', image: '/images/history/current-activities.jpg' },
 ];
 

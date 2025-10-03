@@ -37,6 +37,7 @@ const pengurusData = {
       { name: 'Alya Rosalinda', jabatan: 'Anggota', image: '/images/team/invent_1.jpg' },
       { name: 'Luffia Amanda', jabatan: 'Anggota', image: '/images/team/invent_2.jpg' },
       { name: 'Mutia Wulandari', jabatan: 'Anggota', image: '/images/team/invent_3.jpg' },
+      { name: 'Zul Hendrik', jabatan: 'Anggota', image: '/images/team/invent_4.jpg' },
     ]
   }
 };
