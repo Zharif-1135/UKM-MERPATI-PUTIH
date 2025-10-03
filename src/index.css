@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #111827; /* Warna dasar bg-gray-900 */
+  overscroll-behavior: none; /* <-- TAMBAHKAN BARIS INI */
+}
+
+/* Ini adalah kelas custom untuk layout Masonry di Galeri.jsx */
+/* Pastikan ini tetap ada jika Anda menggunakan Galeri */
+.my-masonry-grid {
+  display: -webkit-box; /* Not supported in Safari 10 */
+  display: -ms-flexbox; /* TWEENER - IE 10 */
+  display: flex;
+  margin-left: -1rem; /* gutter size offset */
+  width: auto;
+}
+.my-masonry-grid_column {
+  padding-left: 1rem; /* gutter size */
+  background-clip: padding-box;
+}
+
+/* Kustomisasi scrollbar (opsional tapi keren) */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #1f2937; /* bg-gray-800 */
+}
+::-webkit-scrollbar-thumb {
+  background: #dc2626; /* bg-red-600 */
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b91c1c; /* bg-red-700 */
+}
